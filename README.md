@@ -1,4 +1,4 @@
-# tedxtimer
+# TedX Timer
 
 A small Python (pygame) project that can be used as a speech timer for TedX style events.
 
